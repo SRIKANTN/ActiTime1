@@ -1,0 +1,1034 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="5" ignored="0" total="9" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[Ttitle is macthoing actiTIME - Login]]>
+    </line>
+    <line>
+      <![CDATA[Ttitle is macthoing actiTIME - Login]]>
+    </line>
+    <line>
+      <![CDATA[Ttitle is macthoing actiTIME - Login]]>
+    </line>
+    <line>
+      <![CDATA[Ttitle is macthoing actiTIME - Enter Time-Track]]>
+    </line>
+    <line>
+      <![CDATA[Ttitle is macthoing actiTIME - Enter Time-Track]]>
+    </line>
+    <line>
+      <![CDATA[Ttitle is macthoing actiTIME - Login]]>
+    </line>
+    <line>
+      <![CDATA[Ttitle is macthoing actiTIME - Login]]>
+    </line>
+    <line>
+      <![CDATA[user name admin]]>
+    </line>
+    <line>
+      <![CDATA[Password damager]]>
+    </line>
+    <line>
+      <![CDATA[Ttitle is macthoing actiTIME - Login]]>
+    </line>
+    <line>
+      <![CDATA[user name admin]]>
+    </line>
+    <line>
+      <![CDATA[Password damager]]>
+    </line>
+    <line>
+      <![CDATA[Element is presnt...]]>
+    </line>
+    <line>
+      <![CDATA[========================================]]>
+    </line>
+    <line>
+      <![CDATA[Element is presnt...]]>
+    </line>
+    <line>
+      <![CDATA[========================================]]>
+    </line>
+    <line>
+      <![CDATA[user name qsp]]>
+    </line>
+    <line>
+      <![CDATA[Password jsp]]>
+    </line>
+    <line>
+      <![CDATA[Element is presnt...]]>
+    </line>
+    <line>
+      <![CDATA[========================================]]>
+    </line>
+    <line>
+      <![CDATA[user name qsp]]>
+    </line>
+    <line>
+      <![CDATA[Password jsp]]>
+    </line>
+    <line>
+      <![CDATA[Element is presnt...]]>
+    </line>
+    <line>
+      <![CDATA[========================================]]>
+    </line>
+    <line>
+      <![CDATA[user name 45]]>
+    </line>
+    <line>
+      <![CDATA[Password a]]>
+    </line>
+    <line>
+      <![CDATA[Element is presnt...]]>
+    </line>
+    <line>
+      <![CDATA[========================================]]>
+    </line>
+    <line>
+      <![CDATA[user name 45]]>
+    </line>
+    <line>
+      <![CDATA[Password a]]>
+    </line>
+    <line>
+      <![CDATA[Element is presnt...]]>
+    </line>
+    <line>
+      <![CDATA[========================================]]>
+    </line>
+    <line>
+      <![CDATA[user name a]]>
+    </line>
+    <line>
+      <![CDATA[Password @]]>
+    </line>
+    <line>
+      <![CDATA[Element is presnt...]]>
+    </line>
+    <line>
+      <![CDATA[========================================]]>
+    </line>
+    <line>
+      <![CDATA[user name a]]>
+    </line>
+    <line>
+      <![CDATA[Password @]]>
+    </line>
+    <line>
+      <![CDATA[user name 1]]>
+    </line>
+    <line>
+      <![CDATA[Password 2]]>
+    </line>
+    <line>
+      <![CDATA[Element is presnt...]]>
+    </line>
+    <line>
+      <![CDATA[========================================]]>
+    </line>
+    <line>
+      <![CDATA[Element is presnt...]]>
+    </line>
+    <line>
+      <![CDATA[========================================]]>
+    </line>
+    <line>
+      <![CDATA[user name 1]]>
+    </line>
+    <line>
+      <![CDATA[Password 2]]>
+    </line>
+    <line>
+      <![CDATA[Element is presnt...]]>
+    </line>
+    <line>
+      <![CDATA[========================================]]>
+    </line>
+    <line>
+      <![CDATA[Ttitle is macthoing actiTIME - Login]]>
+    </line>
+    <line>
+      <![CDATA[Element is presnt...]]>
+    </line>
+    <line>
+      <![CDATA[Ttitle is macthoing actiTIME - Login]]>
+    </line>
+    <line>
+      <![CDATA[Element is presnt...]]>
+    </line>
+    <line>
+      <![CDATA[Ttitle is macthoing actiTIME - Enter Time-Track]]>
+    </line>
+    <line>
+      <![CDATA[Ttitle is macthoing actiTIME - Login]]>
+    </line>
+    <line>
+      <![CDATA[user name admin]]>
+    </line>
+    <line>
+      <![CDATA[Password damager]]>
+    </line>
+    <line>
+      <![CDATA[Element is presnt...]]>
+    </line>
+    <line>
+      <![CDATA[========================================]]>
+    </line>
+    <line>
+      <![CDATA[user name qsp]]>
+    </line>
+    <line>
+      <![CDATA[Password jsp]]>
+    </line>
+    <line>
+      <![CDATA[Element is presnt...]]>
+    </line>
+    <line>
+      <![CDATA[========================================]]>
+    </line>
+    <line>
+      <![CDATA[user name 45]]>
+    </line>
+    <line>
+      <![CDATA[Password a]]>
+    </line>
+    <line>
+      <![CDATA[Element is presnt...]]>
+    </line>
+    <line>
+      <![CDATA[========================================]]>
+    </line>
+    <line>
+      <![CDATA[user name a]]>
+    </line>
+    <line>
+      <![CDATA[Password @]]>
+    </line>
+    <line>
+      <![CDATA[Element is presnt...]]>
+    </line>
+    <line>
+      <![CDATA[========================================]]>
+    </line>
+    <line>
+      <![CDATA[user name 1]]>
+    </line>
+    <line>
+      <![CDATA[Password 2]]>
+    </line>
+    <line>
+      <![CDATA[Element is presnt...]]>
+    </line>
+    <line>
+      <![CDATA[========================================]]>
+    </line>
+    <line>
+      <![CDATA[Ttitle is macthoing actiTIME - Login]]>
+    </line>
+    <line>
+      <![CDATA[Element is presnt...]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="244002" started-at="2019-09-03T08:02:36Z" finished-at="2019-09-03T08:06:40Z">
+    <groups>
+    </groups>
+    <test name="ChromeTest" duration-ms="51373" started-at="2019-09-03T08:02:36Z" finished-at="2019-09-03T08:03:27Z">
+      <class name="Com.ActiTime.Test.ValidLoginLogoutTest">
+        <test-method status="PASS" signature="Precondition(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Com.ActiTime.Test.ValidLoginLogoutTest@77caeb3e]" name="Precondition" is-config="true" duration-ms="9417" started-at="2019-09-03T08:02:36Z" finished-at="2019-09-03T08:02:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://localhost:4444/wd/hub]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://demo.actitime.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Precondition -->
+        <test-method status="PASS" signature="ValidLoginLogout()[pri:1, instance:Com.ActiTime.Test.ValidLoginLogoutTest@77caeb3e]" name="ValidLoginLogout" duration-ms="7610" started-at="2019-09-03T08:02:46Z" finished-at="2019-09-03T08:02:53Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Ttitle is macthoing actiTIME - Login]]>
+            </line>
+            <line>
+              <![CDATA[Ttitle is macthoing actiTIME - Enter Time-Track]]>
+            </line>
+            <line>
+              <![CDATA[Ttitle is macthoing actiTIME - Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidLoginLogout -->
+        <test-method status="PASS" signature="Postcondition(org.testng.ITestResult)[pri:0, instance:Com.ActiTime.Test.ValidLoginLogoutTest@77caeb3e]" name="Postcondition" is-config="true" duration-ms="126" started-at="2019-09-03T08:02:53Z" finished-at="2019-09-03T08:02:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidLoginLogout status=SUCCESS method=ValidLoginLogoutTest.ValidLoginLogout()[pri:1, instance:Com.ActiTime.Test.ValidLoginLogoutTest@77caeb3e] output=Ttitle is macthoing actiTIME - Login]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Postcondition -->
+      </class> <!-- Com.ActiTime.Test.ValidLoginLogoutTest -->
+      <class name="Com.ActiTime.Test.InvalidLoginTest">
+        <test-method status="PASS" signature="Precondition(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Com.ActiTime.Test.InvalidLoginTest@66a3ffec]" name="Precondition" is-config="true" duration-ms="8906" started-at="2019-09-03T08:02:53Z" finished-at="2019-09-03T08:03:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://localhost:4444/wd/hub]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://demo.actitime.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Precondition -->
+        <test-method status="PASS" signature="InvalidLogin()[pri:2, instance:Com.ActiTime.Test.InvalidLoginTest@66a3ffec]" name="InvalidLogin" duration-ms="13933" started-at="2019-09-03T08:03:02Z" finished-at="2019-09-03T08:03:16Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Ttitle is macthoing actiTIME - Login]]>
+            </line>
+            <line>
+              <![CDATA[user name admin]]>
+            </line>
+            <line>
+              <![CDATA[Password damager]]>
+            </line>
+            <line>
+              <![CDATA[Element is presnt...]]>
+            </line>
+            <line>
+              <![CDATA[========================================]]>
+            </line>
+            <line>
+              <![CDATA[user name qsp]]>
+            </line>
+            <line>
+              <![CDATA[Password jsp]]>
+            </line>
+            <line>
+              <![CDATA[Element is presnt...]]>
+            </line>
+            <line>
+              <![CDATA[========================================]]>
+            </line>
+            <line>
+              <![CDATA[user name 45]]>
+            </line>
+            <line>
+              <![CDATA[Password a]]>
+            </line>
+            <line>
+              <![CDATA[Element is presnt...]]>
+            </line>
+            <line>
+              <![CDATA[========================================]]>
+            </line>
+            <line>
+              <![CDATA[user name a]]>
+            </line>
+            <line>
+              <![CDATA[Password @]]>
+            </line>
+            <line>
+              <![CDATA[Element is presnt...]]>
+            </line>
+            <line>
+              <![CDATA[========================================]]>
+            </line>
+            <line>
+              <![CDATA[user name 1]]>
+            </line>
+            <line>
+              <![CDATA[Password 2]]>
+            </line>
+            <line>
+              <![CDATA[Element is presnt...]]>
+            </line>
+            <line>
+              <![CDATA[========================================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- InvalidLogin -->
+        <test-method status="PASS" signature="Postcondition(org.testng.ITestResult)[pri:0, instance:Com.ActiTime.Test.InvalidLoginTest@66a3ffec]" name="Postcondition" is-config="true" duration-ms="72" started-at="2019-09-03T08:03:16Z" finished-at="2019-09-03T08:03:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=InvalidLogin status=SUCCESS method=InvalidLoginTest.InvalidLogin()[pri:2, instance:Com.ActiTime.Test.InvalidLoginTest@66a3ffec] output=Ttitle is macthoing actiTIME - Login]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Postcondition -->
+      </class> <!-- Com.ActiTime.Test.InvalidLoginTest -->
+      <class name="Com.ActiTime.Test.VerifyversionTest">
+        <test-method status="PASS" signature="Precondition(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Com.ActiTime.Test.VerifyversionTest@1e88b3c]" name="Precondition" is-config="true" duration-ms="10387" started-at="2019-09-03T08:03:16Z" finished-at="2019-09-03T08:03:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://localhost:4444/wd/hub]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://demo.actitime.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Precondition -->
+        <test-method status="FAIL" signature="Verifyversion()[pri:3, instance:Com.ActiTime.Test.VerifyversionTest@1e88b3c]" name="Verifyversion" duration-ms="118" started-at="2019-09-03T08:03:27Z" finished-at="2019-09-03T08:03:27Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[The following asserts failed:
+expected [actiTIME 2019.2 Pro] but found [actiTIME 2019.3 Pro]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: The following asserts failed:
+expected [actiTIME 2019.2 Pro] but found [actiTIME 2019.3 Pro]
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:43)
+at Com.ActiTime.Test.VerifyversionTest.Verifyversion(VerifyversionTest.java:22)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+at java.util.concurrent.FutureTask.run(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[Ttitle is macthoing actiTIME - Login]]>
+            </line>
+            <line>
+              <![CDATA[Element is presnt...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verifyversion -->
+        <test-method status="PASS" signature="Postcondition(org.testng.ITestResult)[pri:0, instance:Com.ActiTime.Test.VerifyversionTest@1e88b3c]" name="Postcondition" is-config="true" duration-ms="768" started-at="2019-09-03T08:03:27Z" finished-at="2019-09-03T08:03:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Verifyversion status=FAILURE method=VerifyversionTest.Verifyversion()[pri:3, instance:Com.ActiTime.Test.VerifyversionTest@1e88b3c] output=Ttitle is macthoing actiTIME - Login]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Postcondition -->
+      </class> <!-- Com.ActiTime.Test.VerifyversionTest -->
+    </test> <!-- ChromeTest -->
+    <test name="FirefoxTest" duration-ms="55522" started-at="2019-09-03T08:02:36Z" finished-at="2019-09-03T08:03:32Z">
+      <class name="Com.ActiTime.Test.ValidLoginLogoutTest">
+        <test-method status="PASS" signature="Precondition(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Com.ActiTime.Test.ValidLoginLogoutTest@598067a5]" name="Precondition" is-config="true" duration-ms="12364" started-at="2019-09-03T08:02:36Z" finished-at="2019-09-03T08:02:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://localhost:4444/wd/hub]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://demo.actitime.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Precondition -->
+        <test-method status="FAIL" signature="ValidLoginLogout()[pri:1, instance:Com.ActiTime.Test.ValidLoginLogoutTest@598067a5]" name="ValidLoginLogout" duration-ms="2601" started-at="2019-09-03T08:02:49Z" finished-at="2019-09-03T08:02:51Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: #logoutLink
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-488FP15', ip: '192.168.1.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 68.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190813150448, moz:geckodriverVersion: 0.24.0, moz:headless: false, moz:processID: 10724, moz:profile: C:\Users\APM-SYSTEM\AppData..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 024c33c2-1fb3-43cb-a48b-cbf...}
+Session ID: 024c33c2-1fb3-43cb-a48b-cbfaef10587d
+*** Element info: {Using=id, value=logoutLink}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: #logoutLink
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-488FP15', ip: '192.168.1.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 68.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190813150448, moz:geckodriverVersion: 0.24.0, moz:headless: false, moz:processID: 10724, moz:profile: C:\Users\APM-SYSTEM\AppData..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 024c33c2-1fb3-43cb-a48b-cbf...}
+Session ID: 024c33c2-1fb3-43cb-a48b-cbfaef10587d
+*** Element info: {Using=id, value=logoutLink}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
+at org.openqa.selenium.By$ById.findElement(By.java:188)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy10.click(Unknown Source)
+at Com.ActiTime.Pages.actiTIMEEnterTimeTrackPage.ClickOnLogout(actiTIMEEnterTimeTrackPage.java:24)
+at Com.ActiTime.Test.ValidLoginLogoutTest.ValidLoginLogout(ValidLoginLogoutTest.java:33)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+at java.util.concurrent.FutureTask.run(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Ttitle is macthoing actiTIME - Login]]>
+            </line>
+            <line>
+              <![CDATA[Ttitle is macthoing actiTIME - Enter Time-Track]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidLoginLogout -->
+        <test-method status="PASS" signature="Postcondition(org.testng.ITestResult)[pri:0, instance:Com.ActiTime.Test.ValidLoginLogoutTest@598067a5]" name="Postcondition" is-config="true" duration-ms="1116" started-at="2019-09-03T08:02:51Z" finished-at="2019-09-03T08:02:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidLoginLogout status=FAILURE method=ValidLoginLogoutTest.ValidLoginLogout()[pri:1, instance:Com.ActiTime.Test.ValidLoginLogoutTest@598067a5] output=Ttitle is macthoing actiTIME - Login]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Postcondition -->
+      </class> <!-- Com.ActiTime.Test.ValidLoginLogoutTest -->
+      <class name="Com.ActiTime.Test.InvalidLoginTest">
+        <test-method status="PASS" signature="Precondition(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Com.ActiTime.Test.InvalidLoginTest@31ef45e3]" name="Precondition" is-config="true" duration-ms="11944" started-at="2019-09-03T08:02:52Z" finished-at="2019-09-03T08:03:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://localhost:4444/wd/hub]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://demo.actitime.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Precondition -->
+        <test-method status="PASS" signature="InvalidLogin()[pri:2, instance:Com.ActiTime.Test.InvalidLoginTest@31ef45e3]" name="InvalidLogin" duration-ms="14258" started-at="2019-09-03T08:03:04Z" finished-at="2019-09-03T08:03:18Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Ttitle is macthoing actiTIME - Login]]>
+            </line>
+            <line>
+              <![CDATA[user name admin]]>
+            </line>
+            <line>
+              <![CDATA[Password damager]]>
+            </line>
+            <line>
+              <![CDATA[Element is presnt...]]>
+            </line>
+            <line>
+              <![CDATA[========================================]]>
+            </line>
+            <line>
+              <![CDATA[user name qsp]]>
+            </line>
+            <line>
+              <![CDATA[Password jsp]]>
+            </line>
+            <line>
+              <![CDATA[Element is presnt...]]>
+            </line>
+            <line>
+              <![CDATA[========================================]]>
+            </line>
+            <line>
+              <![CDATA[user name 45]]>
+            </line>
+            <line>
+              <![CDATA[Password a]]>
+            </line>
+            <line>
+              <![CDATA[Element is presnt...]]>
+            </line>
+            <line>
+              <![CDATA[========================================]]>
+            </line>
+            <line>
+              <![CDATA[user name a]]>
+            </line>
+            <line>
+              <![CDATA[Password @]]>
+            </line>
+            <line>
+              <![CDATA[Element is presnt...]]>
+            </line>
+            <line>
+              <![CDATA[========================================]]>
+            </line>
+            <line>
+              <![CDATA[user name 1]]>
+            </line>
+            <line>
+              <![CDATA[Password 2]]>
+            </line>
+            <line>
+              <![CDATA[Element is presnt...]]>
+            </line>
+            <line>
+              <![CDATA[========================================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- InvalidLogin -->
+        <test-method status="PASS" signature="Postcondition(org.testng.ITestResult)[pri:0, instance:Com.ActiTime.Test.InvalidLoginTest@31ef45e3]" name="Postcondition" is-config="true" duration-ms="902" started-at="2019-09-03T08:03:18Z" finished-at="2019-09-03T08:03:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=InvalidLogin status=SUCCESS method=InvalidLoginTest.InvalidLogin()[pri:2, instance:Com.ActiTime.Test.InvalidLoginTest@31ef45e3] output=Ttitle is macthoing actiTIME - Login]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Postcondition -->
+      </class> <!-- Com.ActiTime.Test.InvalidLoginTest -->
+      <class name="Com.ActiTime.Test.VerifyversionTest">
+        <test-method status="PASS" signature="Precondition(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Com.ActiTime.Test.VerifyversionTest@3c0ecd4b]" name="Precondition" is-config="true" duration-ms="11326" started-at="2019-09-03T08:03:19Z" finished-at="2019-09-03T08:03:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://localhost:4444/wd/hub]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://demo.actitime.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Precondition -->
+        <test-method status="FAIL" signature="Verifyversion()[pri:3, instance:Com.ActiTime.Test.VerifyversionTest@3c0ecd4b]" name="Verifyversion" duration-ms="107" started-at="2019-09-03T08:03:31Z" finished-at="2019-09-03T08:03:31Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[The following asserts failed:
+expected [actiTIME 2019.2 Pro] but found [actiTIME 2019.3 Pro]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: The following asserts failed:
+expected [actiTIME 2019.2 Pro] but found [actiTIME 2019.3 Pro]
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:43)
+at Com.ActiTime.Test.VerifyversionTest.Verifyversion(VerifyversionTest.java:22)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+at java.util.concurrent.FutureTask.run(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[Ttitle is macthoing actiTIME - Login]]>
+            </line>
+            <line>
+              <![CDATA[Element is presnt...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verifyversion -->
+        <test-method status="PASS" signature="Postcondition(org.testng.ITestResult)[pri:0, instance:Com.ActiTime.Test.VerifyversionTest@3c0ecd4b]" name="Postcondition" is-config="true" duration-ms="865" started-at="2019-09-03T08:03:31Z" finished-at="2019-09-03T08:03:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Verifyversion status=FAILURE method=VerifyversionTest.Verifyversion()[pri:3, instance:Com.ActiTime.Test.VerifyversionTest@3c0ecd4b] output=Ttitle is macthoing actiTIME - Login]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Postcondition -->
+      </class> <!-- Com.ActiTime.Test.VerifyversionTest -->
+    </test> <!-- FirefoxTest -->
+    <test name="IETest" duration-ms="244002" started-at="2019-09-03T08:02:36Z" finished-at="2019-09-03T08:06:40Z">
+      <class name="Com.ActiTime.Test.ValidLoginLogoutTest">
+        <test-method status="PASS" signature="Precondition(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Com.ActiTime.Test.ValidLoginLogoutTest@6500df86]" name="Precondition" is-config="true" duration-ms="9960" started-at="2019-09-03T08:02:36Z" finished-at="2019-09-03T08:02:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://localhost:4444/wd/hub]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[internet explorer]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://demo.actitime.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Precondition -->
+        <test-method status="FAIL" signature="ValidLoginLogout()[pri:1, instance:Com.ActiTime.Test.ValidLoginLogoutTest@6500df86]" name="ValidLoginLogout" duration-ms="66478" started-at="2019-09-03T08:02:46Z" finished-at="2019-09-03T08:03:53Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to find element with css selector == #logoutLink
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-488FP15', ip: '192.168.1.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:29127/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, webdriver.remote.sessionid: 8db18a2a-8f48-4c76-a8c4-0a4...}
+Session ID: 8db18a2a-8f48-4c76-a8c4-0a4344fa3e28
+*** Element info: {Using=id, value=logoutLink}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to find element with css selector == #logoutLink
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-488FP15', ip: '192.168.1.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:29127/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, webdriver.remote.sessionid: 8db18a2a-8f48-4c76-a8c4-0a4...}
+Session ID: 8db18a2a-8f48-4c76-a8c4-0a4344fa3e28
+*** Element info: {Using=id, value=logoutLink}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
+at org.openqa.selenium.By$ById.findElement(By.java:188)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy10.click(Unknown Source)
+at Com.ActiTime.Pages.actiTIMEEnterTimeTrackPage.ClickOnLogout(actiTIMEEnterTimeTrackPage.java:24)
+at Com.ActiTime.Test.ValidLoginLogoutTest.ValidLoginLogout(ValidLoginLogoutTest.java:33)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+at java.util.concurrent.FutureTask.run(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Ttitle is macthoing actiTIME - Login]]>
+            </line>
+            <line>
+              <![CDATA[Ttitle is macthoing actiTIME - Enter Time-Track]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidLoginLogout -->
+        <test-method status="PASS" signature="Postcondition(org.testng.ITestResult)[pri:0, instance:Com.ActiTime.Test.ValidLoginLogoutTest@6500df86]" name="Postcondition" is-config="true" duration-ms="9981" started-at="2019-09-03T08:03:53Z" finished-at="2019-09-03T08:04:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidLoginLogout status=FAILURE method=ValidLoginLogoutTest.ValidLoginLogout()[pri:1, instance:Com.ActiTime.Test.ValidLoginLogoutTest@6500df86] output=Ttitle is macthoing actiTIME - Login]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Postcondition -->
+      </class> <!-- Com.ActiTime.Test.ValidLoginLogoutTest -->
+      <class name="Com.ActiTime.Test.InvalidLoginTest">
+        <test-method status="PASS" signature="Precondition(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Com.ActiTime.Test.InvalidLoginTest@42dafa95]" name="Precondition" is-config="true" duration-ms="4145" started-at="2019-09-03T08:04:03Z" finished-at="2019-09-03T08:04:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://localhost:4444/wd/hub]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[internet explorer]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://demo.actitime.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Precondition -->
+        <test-method status="PASS" signature="InvalidLogin()[pri:2, instance:Com.ActiTime.Test.InvalidLoginTest@42dafa95]" name="InvalidLogin" duration-ms="148730" started-at="2019-09-03T08:04:07Z" finished-at="2019-09-03T08:06:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Ttitle is macthoing actiTIME - Login]]>
+            </line>
+            <line>
+              <![CDATA[user name admin]]>
+            </line>
+            <line>
+              <![CDATA[Password damager]]>
+            </line>
+            <line>
+              <![CDATA[Element is presnt...]]>
+            </line>
+            <line>
+              <![CDATA[========================================]]>
+            </line>
+            <line>
+              <![CDATA[user name qsp]]>
+            </line>
+            <line>
+              <![CDATA[Password jsp]]>
+            </line>
+            <line>
+              <![CDATA[Element is presnt...]]>
+            </line>
+            <line>
+              <![CDATA[========================================]]>
+            </line>
+            <line>
+              <![CDATA[user name 45]]>
+            </line>
+            <line>
+              <![CDATA[Password a]]>
+            </line>
+            <line>
+              <![CDATA[Element is presnt...]]>
+            </line>
+            <line>
+              <![CDATA[========================================]]>
+            </line>
+            <line>
+              <![CDATA[user name a]]>
+            </line>
+            <line>
+              <![CDATA[Password @]]>
+            </line>
+            <line>
+              <![CDATA[Element is presnt...]]>
+            </line>
+            <line>
+              <![CDATA[========================================]]>
+            </line>
+            <line>
+              <![CDATA[user name 1]]>
+            </line>
+            <line>
+              <![CDATA[Password 2]]>
+            </line>
+            <line>
+              <![CDATA[Element is presnt...]]>
+            </line>
+            <line>
+              <![CDATA[========================================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- InvalidLogin -->
+        <test-method status="PASS" signature="Postcondition(org.testng.ITestResult)[pri:0, instance:Com.ActiTime.Test.InvalidLoginTest@42dafa95]" name="Postcondition" is-config="true" duration-ms="32" started-at="2019-09-03T08:06:35Z" finished-at="2019-09-03T08:06:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=InvalidLogin status=SUCCESS method=InvalidLoginTest.InvalidLogin()[pri:2, instance:Com.ActiTime.Test.InvalidLoginTest@42dafa95] output=Ttitle is macthoing actiTIME - Login]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Postcondition -->
+      </class> <!-- Com.ActiTime.Test.InvalidLoginTest -->
+      <class name="Com.ActiTime.Test.VerifyversionTest">
+        <test-method status="PASS" signature="Precondition(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Com.ActiTime.Test.VerifyversionTest@402a079c]" name="Precondition" is-config="true" duration-ms="4047" started-at="2019-09-03T08:06:35Z" finished-at="2019-09-03T08:06:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://localhost:4444/wd/hub]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[internet explorer]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://demo.actitime.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Precondition -->
+        <test-method status="FAIL" signature="Verifyversion()[pri:3, instance:Com.ActiTime.Test.VerifyversionTest@402a079c]" name="Verifyversion" duration-ms="519" started-at="2019-09-03T08:06:40Z" finished-at="2019-09-03T08:06:40Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[The following asserts failed:
+expected [actiTIME 2019.2 Pro] but found [actiTIME 2019.3 Pro]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: The following asserts failed:
+expected [actiTIME 2019.2 Pro] but found [actiTIME 2019.3 Pro]
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:43)
+at Com.ActiTime.Test.VerifyversionTest.Verifyversion(VerifyversionTest.java:22)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+at java.util.concurrent.FutureTask.run(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[Ttitle is macthoing actiTIME - Login]]>
+            </line>
+            <line>
+              <![CDATA[Element is presnt...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verifyversion -->
+        <test-method status="PASS" signature="Postcondition(org.testng.ITestResult)[pri:0, instance:Com.ActiTime.Test.VerifyversionTest@402a079c]" name="Postcondition" is-config="true" duration-ms="78" started-at="2019-09-03T08:06:40Z" finished-at="2019-09-03T08:06:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Verifyversion status=FAILURE method=VerifyversionTest.Verifyversion()[pri:3, instance:Com.ActiTime.Test.VerifyversionTest@402a079c] output=Ttitle is macthoing actiTIME - Login]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Postcondition -->
+      </class> <!-- Com.ActiTime.Test.VerifyversionTest -->
+    </test> <!-- IETest -->
+  </suite> <!-- Suite -->
+</testng-results>
